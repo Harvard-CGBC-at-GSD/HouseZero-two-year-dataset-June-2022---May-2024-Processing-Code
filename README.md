@@ -3,7 +3,7 @@
 <br>Published: 28 August, 2024</em></p>
 <hr>
 <h3>Authors</h3>
-<p align="center">Jung Min Han, Ali Malkawi, Xu Han, Sunghwan Lim, Elence Xinzhu Chen, Sang Won Kang, Yiwei Lyu & Peter Howard</p>
+<p>Jung Min Han, Ali Malkawi, Xu Han, Sunghwan Lim, Elence Xinzhu Chen, Sang Won Kang, Yiwei Lyu & Peter Howard</p>
 <p></p>
 <hr>
 <div align="center">
